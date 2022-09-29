@@ -204,6 +204,33 @@
         "name": "BBDRocket-1.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "BBDRocket-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BBDRocket-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "BBDRocket-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BBDRocket-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "BBDRocket-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BBDRocket-1-1.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -306,6 +333,8 @@
           ],
           "behaviors": [
             {
+              "name": "TopDownMovement",
+              "type": "TopDownMovementBehavior::TopDownMovementBehavior",
               "acceleration": 400,
               "allowDiagonals": false,
               "angleOffset": 0,
@@ -315,9 +344,7 @@
               "ignoreDefaultControls": false,
               "maxSpeed": 200,
               "movementAngleOffset": -45,
-              "name": "TopDownMovement",
               "rotateObject": false,
-              "type": "TopDownMovementBehavior::TopDownMovementBehavior",
               "viewpoint": "TrueIsometry"
             }
           ],
@@ -332,24 +359,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "BBDRocket-1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "BBDRocket-1.png",
+                      "image": "BBDRocket-1-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
