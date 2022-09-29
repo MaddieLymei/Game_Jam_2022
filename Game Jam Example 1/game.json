@@ -215,8 +215,8 @@
     {
       "b": 209,
       "disableInputWhenNotFocused": true,
-      "mangledName": "Untitled_32scene",
-      "name": "Untitled scene",
+      "mangledName": "Landing_32Page_32for_32Rocket",
+      "name": "Landing Page for Rocket",
       "r": 209,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
@@ -232,7 +232,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1,
+        "zoomFactor": 0.8399999999999999,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -241,13 +241,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 602,
+          "height": 925,
           "layer": "",
           "name": "BlueSpace",
           "persistentUuid": "e2cd38a6-9286-4b43-ab0b-20bc67aa0348",
-          "width": 804,
-          "x": -1,
-          "y": 1,
+          "width": 1395,
+          "x": -235,
+          "y": -205,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -256,13 +256,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 205,
+          "height": 157,
           "layer": "",
           "name": "NewSprite",
           "persistentUuid": "f16f2c05-eef3-4685-a4ae-f8490e6bb9c8",
-          "width": 268,
-          "x": 260,
-          "y": 372,
+          "width": 200,
+          "x": 95,
+          "y": 438,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -304,16 +304,49 @@
               "booleanParameters": {}
             }
           ],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "acceleration": 400,
+              "allowDiagonals": false,
+              "angleOffset": 0,
+              "angularMaxSpeed": 180,
+              "customIsometryAngle": 30,
+              "deceleration": 800,
+              "ignoreDefaultControls": false,
+              "maxSpeed": 200,
+              "movementAngleOffset": -45,
+              "name": "TopDownMovement",
+              "rotateObject": false,
+              "type": "TopDownMovementBehavior::TopDownMovementBehavior",
+              "viewpoint": "TrueIsometry"
+            }
+          ],
           "animations": [
             {
               "name": "BBDRocket",
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
+                  "looping": true,
                   "timeBetweenFrames": 0.07999999821186066,
                   "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "BBDRocket-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
                     {
                       "hasCustomCollisionMask": false,
                       "image": "BBDRocket-1.png",
@@ -363,7 +396,12 @@
           "effects": []
         }
       ],
-      "behaviorsSharedData": []
+      "behaviorsSharedData": [
+        {
+          "name": "TopDownMovement",
+          "type": "TopDownMovementBehavior::TopDownMovementBehavior"
+        }
+      ]
     }
   ],
   "externalEvents": [],
