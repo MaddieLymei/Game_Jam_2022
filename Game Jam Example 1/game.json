@@ -261,15 +261,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "BBDRocket-1-3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "BBDRocket-1-3.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
         "file": "BBDRocket-2-1.png",
         "kind": "image",
         "metadata": "",
@@ -292,15 +283,6 @@
         "kind": "image",
         "metadata": "",
         "name": "Another Rpclet.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "AnotherRpclet-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "AnotherRpclet-1.png",
         "smoothed": true,
         "userAdded": false
       },
@@ -381,39 +363,196 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "noun-presenter-2183764.png",
+        "file": "noun-collaboration-29093532.png",
         "kind": "image",
         "metadata": "",
-        "name": "noun-presenter-2183764.png",
+        "name": "noun-collaboration-29093532.png",
         "smoothed": true,
         "userAdded": false
       },
       {
         "alwaysLoaded": false,
-        "file": "noun-public-speaking-2146371.png",
+        "file": "assets/Full moon.png",
         "kind": "image",
         "metadata": "",
-        "name": "noun-public-speaking-2146371.png",
+        "name": "Full moon.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/Generic Backgrounds/Background Objects/Retina/Full moon.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-1.png",
         "smoothed": true,
         "userAdded": false
       },
       {
         "alwaysLoaded": false,
-        "file": "noun-public-speaking-2146371-1.png",
+        "file": "BBDRocket-1-3-2.png",
         "kind": "image",
         "metadata": "",
-        "name": "noun-public-speaking-2146371-1.png",
+        "name": "BBDRocket-1-3-2.png",
         "smoothed": true,
         "userAdded": false
       },
       {
         "alwaysLoaded": false,
-        "file": "noun-presenter-2183764-1.png",
+        "file": "BBDRocket-1-3-1.png",
         "kind": "image",
         "metadata": "",
-        "name": "noun-presenter-2183764-1.png",
+        "name": "BBDRocket-1-3-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "BBDRocket-1-3-2-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BBDRocket-1-3-2-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "BBDRocket-1-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BBDRocket-1-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "BBDRocket-1-3-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BBDRocket-1-3-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "BBDRocket-1-3-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BBDRocket-1-3-5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "secondrocketoption2-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "secondrocketoption2-1.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "secondrocketoption2-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "secondrocketoption2-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "second rocket option2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "second rocket option2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "secondrocketoption2-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "secondrocketoption2-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "secondrocketoption2-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "secondrocketoption2-5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "AnotherRpclet-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "AnotherRpclet-1-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "AnotherRpclet-1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "AnotherRpclet-1-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "AnotherRpclet-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "AnotherRpclet-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "AnotherRpclet-1-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "AnotherRpclet-1-4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "AnotherRpclet-1-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "AnotherRpclet-1-5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite5-1-1-12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite5-1-1-12.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "certificate.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "certificate.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -445,7 +584,12 @@
         "zoomFactor": 0.8399999999999999,
         "windowMask": false
       },
-      "objectsGroups": [],
+      "objectsGroups": [
+        {
+          "name": "Group",
+          "objects": []
+        }
+      ],
       "variables": [],
       "instances": [
         {
@@ -453,7 +597,7 @@
           "customSize": true,
           "height": 157,
           "layer": "Game Layer",
-          "name": "NewSprite",
+          "name": "Rocket_1",
           "persistentUuid": "f16f2c05-eef3-4685-a4ae-f8490e6bb9c8",
           "width": 200,
           "x": 122,
@@ -468,11 +612,11 @@
           "customSize": true,
           "height": 200,
           "layer": "Game Layer",
-          "name": "NewSprite3",
+          "name": "Rocket_3",
           "persistentUuid": "e7a82079-a214-4bab-915b-21fae60ee5b3",
           "width": 268,
-          "x": 333,
-          "y": 404,
+          "x": 334,
+          "y": 392,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -556,14 +700,29 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 164,
+          "height": 128,
           "layer": "",
-          "name": "NewSprite4",
-          "persistentUuid": "e54cb3de-c59b-445e-871c-7fb91f8c2ac8",
-          "width": 161,
-          "x": 123,
-          "y": 98,
+          "name": "TeamWork",
+          "persistentUuid": "c60f7dbb-cc35-464d-8167-deace0205fc8",
+          "width": 160,
+          "x": 393,
+          "y": 52,
           "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 80,
+          "layer": "",
+          "name": "aws",
+          "persistentUuid": "ed29f9e0-6725-4bbf-a0d2-26426de2ac4e",
+          "width": 100,
+          "x": 136,
+          "y": 88,
+          "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -572,7 +731,7 @@
       "objects": [
         {
           "assetStoreId": "",
-          "name": "NewSprite",
+          "name": "Rocket_1",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -624,8 +783,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 404.3977966308594,
+                        "y": 93.3991470336914
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -641,8 +800,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 404.3977966308594,
+                        "y": 93.3991470336914
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -658,8 +817,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 404.3977966308594,
+                        "y": 93.3991470336914
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -677,7 +836,7 @@
         },
         {
           "assetStoreId": "",
-          "name": "NewSprite2",
+          "name": "Rocket_2",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -732,7 +891,7 @@
         },
         {
           "assetStoreId": "",
-          "name": "NewSprite3",
+          "name": "Rocket_3",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -814,7 +973,7 @@
         },
         {
           "assetStoreId": "",
-          "name": "NewSprite4",
+          "name": "TeamWork",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -823,7 +982,7 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "noun-collaboration-5044986",
+              "name": "noun-collaboration-29093532",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -832,7 +991,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "noun-collaboration-5044986-1.png",
+                      "image": "noun-collaboration-29093532.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -855,7 +1014,7 @@
         },
         {
           "assetStoreId": "",
-          "name": "podium",
+          "name": "Bullet",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -864,16 +1023,16 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "noun-presenter-2183764",
+              "name": "",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 0.07999999821186066,
+                  "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "noun-presenter-2183764-1.png",
+                      "image": "NewSprite5-1-1-12.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -896,7 +1055,7 @@
         },
         {
           "assetStoreId": "",
-          "name": "NewSprite5",
+          "name": "aws",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -905,16 +1064,16 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "noun-public-speaking-2146371",
+              "name": "",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 0.07999999821186066,
+                  "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "noun-public-speaking-2146371-1.png",
+                      "image": "certificate.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -936,7 +1095,63 @@
           ]
         }
       ],
-      "events": [],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyReleased"
+              },
+              "parameters": [
+                "",
+                "Space"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Bullet",
+                "Rocket_1.X()- 30",
+                "Rocket_1.Y()",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "AddForceAL"
+              },
+              "parameters": [
+                "Bullet",
+                "Rocket_1.Angle()+270",
+                "350",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "ChangePlan"
+              },
+              "parameters": [
+                "Bullet",
+                "=",
+                "Rocket_1.ZOrder()-1"
+              ]
+            }
+          ]
+        }
+      ],
       "layers": [
         {
           "ambientLightColorB": 0,
@@ -978,6 +1193,675 @@
           "type": "TopDownMovementBehavior::TopDownMovementBehavior"
         }
       ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Select_32your_32Rocket",
+      "name": "Select your Rocket",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 1,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 598,
+          "layer": "",
+          "name": "Space",
+          "persistentUuid": "51178e66-6252-4eba-a279-3272b6408377",
+          "width": 799,
+          "x": -483.75,
+          "y": 78.38095092773438,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 639,
+          "layer": "",
+          "name": "BlackSpace",
+          "persistentUuid": "b4d32717-1bea-43da-8fbb-7cd257a375a3",
+          "width": 841,
+          "x": -18,
+          "y": -11,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 193,
+          "layer": "",
+          "name": "StarryBackgroundStars2",
+          "persistentUuid": "b2343a5d-680c-441e-9538-a9c9a06f06dc",
+          "width": 166,
+          "x": 207,
+          "y": 23,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "StarryBackgroundStars2",
+          "persistentUuid": "37e280e2-cdd1-4b0f-9c68-63bc64eccc72",
+          "width": 0,
+          "x": 514,
+          "y": 86,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "StarryBackgroundStars2",
+          "persistentUuid": "5065c631-796e-4de8-a5a7-2b7395d048c9",
+          "width": 0,
+          "x": 587,
+          "y": 426,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "StarryBackgroundStars2",
+          "persistentUuid": "395eafca-92aa-494a-b262-7e6aa64b91e9",
+          "width": 0,
+          "x": 44,
+          "y": 442,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 191,
+          "layer": "",
+          "name": "Rocket_2",
+          "persistentUuid": "5dbbef38-aebc-48b7-ab13-549258039a49",
+          "width": 231,
+          "x": 292,
+          "y": 220,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 151,
+          "layer": "",
+          "name": "Rocket_3",
+          "persistentUuid": "e3608063-feb7-443e-865f-5424ec8e22e5",
+          "width": 214,
+          "x": 552,
+          "y": 229,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 164,
+          "layer": "",
+          "name": "Rocket_1",
+          "persistentUuid": "c6e042d3-e8c5-4707-82bf-d5671c7a0c41",
+          "width": 192,
+          "x": 46,
+          "y": 216,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "2d701679df0e067e63e657f3a7de8b0c076c1c0db19e7c6070c186b28a611df2",
+          "height": 128,
+          "name": "BlackSpace",
+          "tags": "",
+          "texture": "tiled_black space.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 128,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "c20fe4657b50f46f901b666ddae13412211ef388c101136bacecd5bee34520b4",
+          "height": 128,
+          "name": "StarryBackgroundStars2",
+          "tags": "",
+          "texture": "tiled_Starry Background Stars 2.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 128,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "4d95f1040058d92976a4f5690706f0470f85692101d35e3e2bf6e10dc27c4581",
+          "name": "FullMoon",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.02500000037252903,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Full moon.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Selector",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Rocket_2",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [
+            {
+              "effectType": "",
+              "name": "Effect",
+              "doubleParameters": {},
+              "stringParameters": {},
+              "booleanParameters": {}
+            }
+          ],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "secondrocketoption2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.16670000553131104,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "secondrocketoption2-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "secondrocketoption2-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "second rocket option2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "secondrocketoption2-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "secondrocketoption2-5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Rocket_3",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "AnotherRpclet-1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.16670000553131104,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "AnotherRpclet-1-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "AnotherRpclet-1-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "AnotherRpclet-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "AnotherRpclet-1-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "AnotherRpclet-1-5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Rocket_1",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [
+            {
+              "effectType": "Glow",
+              "name": "Effect",
+              "doubleParameters": {
+                "distance": 3,
+                "innerStrength": 1,
+                "outerStrength": 2
+              },
+              "stringParameters": {
+                "color": "#ffffff"
+              },
+              "booleanParameters": {}
+            }
+          ],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "BBDRocket-1-3",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.16670000553131104,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "BBDRocket-1-3-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "BBDRocket-1-3-2-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "BBDRocket-1-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "BBDRocket-1-3-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "BBDRocket-1-3-5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "AddForceVers"
+              },
+              "parameters": [
+                "Rocket_1",
+                "90",
+                "70",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 7656472,
+          "ambientLightColorG": 150995054,
+          "ambientLightColorR": 1869182049,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": []
     }
   ],
   "externalEvents": [],
