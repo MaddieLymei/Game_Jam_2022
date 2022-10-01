@@ -231,6 +231,189 @@
         "name": "BBDRocket-1-1.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "BBDRocket-1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BBDRocket-1-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "BBDRocket-2-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BBDRocket-2-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "second rocket option.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "second rocket option.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "BBDRocket-1-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BBDRocket-1-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "BBDRocket-2-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BBDRocket-2-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "BBDRocket-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BBDRocket-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Another Rpclet.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Another Rpclet.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "AnotherRpclet-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "AnotherRpclet-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Rocket_3-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rocket_3-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Rocket_3-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rocket_3-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_black space.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_black space.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/Space Shooter/Backgrounds/tiled_black space.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Starry Background Stars 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Starry Background Stars 1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/FoozleCC/Void Collection/Environment Pack/Backgrounds/tiled_Starry Background Stars 1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Starry Background Stars 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Starry Background Stars 2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/FoozleCC/Void Collection/Environment Pack/Backgrounds/tiled_Starry Background Stars 2.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "noun-collaboration-5044986.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "noun-collaboration-5044986.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "noun-collaboration-5044986-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "noun-collaboration-5044986-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "noun-presenter-2183764.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "noun-presenter-2183764.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "noun-public-speaking-2146371.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "noun-public-speaking-2146371.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "noun-public-speaking-2146371-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "noun-public-speaking-2146371-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "noun-presenter-2183764-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "noun-presenter-2183764-1.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -268,14 +451,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 925,
-          "layer": "",
-          "name": "BlueSpace",
-          "persistentUuid": "e2cd38a6-9286-4b43-ab0b-20bc67aa0348",
-          "width": 1395,
-          "x": -235,
-          "y": -205,
-          "zOrder": 1,
+          "height": 157,
+          "layer": "Game Layer",
+          "name": "NewSprite",
+          "persistentUuid": "f16f2c05-eef3-4685-a4ae-f8490e6bb9c8",
+          "width": 200,
+          "x": 122,
+          "y": 437,
+          "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -283,32 +466,110 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 157,
+          "height": 200,
+          "layer": "Game Layer",
+          "name": "NewSprite3",
+          "persistentUuid": "e7a82079-a214-4bab-915b-21fae60ee5b3",
+          "width": 268,
+          "x": 333,
+          "y": 404,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 598,
           "layer": "",
-          "name": "NewSprite",
-          "persistentUuid": "f16f2c05-eef3-4685-a4ae-f8490e6bb9c8",
-          "width": 200,
-          "x": 95,
-          "y": 438,
+          "name": "Space",
+          "persistentUuid": "619edad8-890e-4a53-87ac-6830f4405bcb",
+          "width": 799,
+          "x": -1,
+          "y": 0,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Stars",
+          "persistentUuid": "517e22c7-6774-41d4-ab0c-367ac484980d",
+          "width": 0,
+          "x": 87,
+          "y": 98,
           "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Stars",
+          "persistentUuid": "bc5db421-8248-42d8-8721-2f00f17c4b2e",
+          "width": 0,
+          "x": 618,
+          "y": 317,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Stars",
+          "persistentUuid": "2dc2e505-1f71-4d86-953e-c20fbccd2e1c",
+          "width": 0,
+          "x": 117,
+          "y": 402,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Stars",
+          "persistentUuid": "9afdb672-8040-4f72-9922-001b79484659",
+          "width": 0,
+          "x": 362,
+          "y": 159,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 164,
+          "layer": "",
+          "name": "NewSprite4",
+          "persistentUuid": "e54cb3de-c59b-445e-871c-7fb91f8c2ac8",
+          "width": 161,
+          "x": 123,
+          "y": 98,
+          "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         }
       ],
       "objects": [
-        {
-          "assetStoreId": "747bdde8bda65d30484c55944bbe9e074ccec0351299831b5a81c1cf3665826f",
-          "height": 128,
-          "name": "BlueSpace",
-          "tags": "",
-          "texture": "tiled_blue space.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 128,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
         {
           "assetStoreId": "",
           "name": "NewSprite",
@@ -321,9 +582,9 @@
               "effectType": "Glow",
               "name": "Effect",
               "doubleParameters": {
-                "distance": 5,
+                "distance": 2,
                 "innerStrength": 1,
-                "outerStrength": 2
+                "outerStrength": 1
               },
               "stringParameters": {
                 "color": "#ffffff"
@@ -355,11 +616,305 @@
               "directions": [
                 {
                   "looping": true,
+                  "timeBetweenFrames": 0.2199999988079071,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "BBDRocket-1-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "BBDRocket-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "BBDRocket-2-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewSprite2",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [
+            {
+              "effectType": "Glow",
+              "name": "Effect",
+              "doubleParameters": {
+                "distance": 15,
+                "innerStrength": 1,
+                "outerStrength": 2
+              },
+              "stringParameters": {
+                "color": "#ffffff"
+              },
+              "booleanParameters": {}
+            }
+          ],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "second rocket option.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewSprite3",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Rocket_3",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.19499999284744263,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Rocket_3-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Rocket_3-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "2d701679df0e067e63e657f3a7de8b0c076c1c0db19e7c6070c186b28a611df2",
+          "height": 128,
+          "name": "Space",
+          "tags": "",
+          "texture": "tiled_black space.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 128,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "c20fe4657b50f46f901b666ddae13412211ef388c101136bacecd5bee34520b4",
+          "height": 128,
+          "name": "Stars",
+          "tags": "",
+          "texture": "tiled_Starry Background Stars 2.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 128,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewSprite4",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "noun-collaboration-5044986",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
                   "timeBetweenFrames": 0.07999999821186066,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "BBDRocket-1-1.png",
+                      "image": "noun-collaboration-5044986-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "podium",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "noun-presenter-2183764",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "noun-presenter-2183764-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewSprite5",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "noun-public-speaking-2146371",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "noun-public-speaking-2146371-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -403,6 +958,17 @@
               "width": 0
             }
           ],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 7942264,
+          "ambientLightColorG": 6046000,
+          "ambientLightColorR": 7434000,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "Game Layer",
+          "visibility": true,
+          "cameras": [],
           "effects": []
         }
       ],
